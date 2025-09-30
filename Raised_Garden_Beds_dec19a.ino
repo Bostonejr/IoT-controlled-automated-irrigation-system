@@ -116,10 +116,10 @@ void loop() {
 
   
 
-  
+  // main condition
   // Checking conditions using the real-time clock
   // Checking for second bed (valve 2)
-  // super dry is 87%
+  // super dry is >= 87%
   // super wet is 0-6%
   if (hour == 7 || hour == 18){
     // water plants based on moisture level 2

@@ -1,21 +1,16 @@
-:Author: bostonejr
-:Email:
+:Author: Emmanuel-Paul Kwaku Oppong-Peprah
+:Email: emmanuelpauloppongpeprah@gmail.com
 :Date: 19/12/2024
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: IoT-controlled automated irrigation system
 
 Describe your project
 
 == Step 1: Installation
 Please describe the steps to install this project.
 
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
 
 == Step 2: Assemble the circuit
 
